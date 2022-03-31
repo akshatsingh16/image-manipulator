@@ -1,7 +1,6 @@
 # image-manipulator
 name says it all
 
-no lib used. 
 
 it works by manipulating pixels of an image. 
 
